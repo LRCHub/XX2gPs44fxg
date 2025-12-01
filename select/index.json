@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Sacred Play Secret Place",
+  "base_artist": "Matryoshka",
+  "createdAt": "2025-12-01T20:29:20.614514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sacred Play Secret Place",
+      "artist": "matryoshka",
+      "has_synced": false,
+      "path": "select/01_Sacred_Play_Secret_Place_matryoshka.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sacred Play Secret Place",
+      "artist": "Matryoshka",
+      "has_synced": true,
+      "path": "select/02_Sacred_Play_Secret_Place_Matryoshka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sacred Play Secret Place",
+      "artist": "Matryoshka",
+      "has_synced": true,
+      "path": "select/03_Sacred_Play_Secret_Place_Matryoshka.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "sacred play secret place",
+      "artist": "matryoshka",
+      "has_synced": true,
+      "path": "select/04_sacred_play_secret_place_matryoshka.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sacred Play Secret Place (Explicit)",
+      "artist": "Matryoshka",
+      "has_synced": true,
+      "path": "select/05_Sacred_Play_Secret_Place_(Explicit)_Matryoshka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sacred Play Secret Place",
+      "artist": "matryoshka",
+      "has_synced": false,
+      "path": "select/pl_01_Sacred_Play_Secret_Place_matryoshka.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Sacred Play Secret Place",
+      "artist": "matryoshka",
+      "has_synced": false,
+      "path": "select/pl_02_Sacred_Play_Secret_Place_matryoshka.txt"
+    }
+  ]
+}
