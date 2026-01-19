@@ -1,39 +1,41 @@
 # Matryoshka – Sacred Play Secret Place
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-Gracefully sneaking up on me
-They just want to tear my feathers
-The golden light of the setting sun
-Let me be a hypocrite again
-I will be gone before long
-I know I'm wrong
-No matter how far I go, they find me out
-I wish the gusts took away my gloom
-I can't help this vague feeling
-I feel so good, but I'm worn out
-We'll be all right, don't look so sad
-Confess my sin, conceal them all
-Night will come soon and swallow everything
-Quietly hiding in the grass
-Hearing the leaves rustling
-They're singing with a burning piano
-It gives me cheap relief
-I will be gone before long
-I know I'm wrong
-No matter how far I go, they find me out
-I wish the gusts took away my gloom
-I can't help this vague feeling
-I feel so good, but I'm worn out
-We'll be all right, don't look so sad
-Confess my sin, conceal them all
-Night will come soon and swallow everything
-I feel so good, but I'm worn out
-We'll be all right, don't look so sad
-Confess my sin, conceal them all
-Night will come soon and swallow everything
-I feel so good
-We'll be all right
-Then, I give all up
+```lrc
+[00:30.80] Gracefully sneaking up on me
+[00:36.35] They just want to tear my feathers
+[00:44.01] The golden light of the setting sun
+[00:51.67] Let me be a hypocrite again
+[01:05.17] 
+[00:58.41] I will be gone before long
+[01:02.06] I know I'm wrong
+[01:05.48] No matter how far I go, they find me out
+[01:14.79] I wish the gusts took away my gloom
+[01:21.27] I can't help this vague feeling
+[01:36.77] 
+[01:27.20] I feel so good, but I'm worn out
+[01:34.63] We'll be all right, don't look so sad
+[01:42.01] Confess my sin, conceal them all
+[01:49.31] Night will come soon and swallow everything
+[02:10.81] 
+[02:14.28] Quietly hiding in the grass
+[02:19.80] Hearing the leaves rustling
+[02:27.96] They're singing with a burning piano
+[02:34.55] It gives me cheap relief
+[02:46.55] 
+[02:41.05] I will be gone before long
+[02:45.65] I know I'm wrong
+[02:49.38] No matter how far I go, they find me out
+[02:58.22] I wish the gusts took away my gloom
+[03:04.52] I can't help this vague feeling
+[03:20.02] 
+[03:10.93] I feel so good, but I'm worn out
+[03:18.48] We'll be all right, don't look so sad
+[03:25.63] Confess my sin, conceal them all
+[03:33.00] Night will come soon and swallow everything
+[03:54.50] 
+[04:39.92] I feel so good
+[04:46.93] We'll be all right
+[04:54.38] Then, I give all up
 ```
