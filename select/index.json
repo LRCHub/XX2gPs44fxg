@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Sacred Play Secret Place",
   "base_artist": "Matryoshka",
-  "createdAt": "2025-12-01T20:29:20.614514Z",
+  "createdAt": "2026-03-19T00:49:42.005931Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -51,14 +51,6 @@
       "artist": "matryoshka",
       "has_synced": false,
       "path": "select/pl_01_Sacred_Play_Secret_Place_matryoshka.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "Sacred Play Secret Place",
-      "artist": "matryoshka",
-      "has_synced": false,
-      "path": "select/pl_02_Sacred_Play_Secret_Place_matryoshka.txt"
     }
   ]
 }
